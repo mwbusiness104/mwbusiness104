@@ -16,40 +16,29 @@
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Active Directory Home Lab</a>
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Active Directory Home Lab</a>
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Active Directory Home Lab</a>
+    
+</div>
 
+## Network Analysis Tools
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-|           | <a href="https://google.com">Detection Lab</a>|
-|           | <a href="https://google.com">Wireshark Analysis Project</a>|
-|           | SOC Automation Lab|
-|           | SOC Automation Lab|
-|           | SOC Automation Lab|
-|           | SOC Automation Lab|
-
+    
+</div>
 
 ## Certifications
 
 <div>
     <img src="https://img.shields.io/badge/-CCNA-FF0000?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-CCSK-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
-    
-</div>
-
-## Tools
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    
-        
-</div>
 
 
 ## Programming Languages 
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+
+
 
 
 <!--
