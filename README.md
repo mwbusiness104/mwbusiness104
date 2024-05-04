@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/mwbusiness104)](https://github.com/mwbusiness104)
 
 
+
 - Currently a third-year student at The Ohio State University's Max M. Fisher College of Business, committed to ongoing personal and academic development.
 - Dedicated to attaining a Bachelor of Science Degree in Information Systems, emphasizing continuous learning and skill enhancement.
 - Intrigued by the technology sector, particularly Cybersecurity, and eager to gain comprehensive expertise and practical skills for future career endeavors.
