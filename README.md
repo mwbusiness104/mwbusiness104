@@ -12,9 +12,6 @@ Currently a third-year student at The Ohio State University's Max M. Fisher Coll
 ### Fun Facts 
 - gg
 - gg
-  - gg
-  - gg
-  - gg
 - gg
 - gg
    
