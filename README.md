@@ -13,8 +13,7 @@
 
 
 ## Projects
-- <a href="https://google.com"> Active Directory Home Lab</a>
-- <a href="https://google.com"> Wireshark Analysis Project </a>
+- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Active Directory Home Lab</a>
 
 
 ## Skills
