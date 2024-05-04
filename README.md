@@ -28,14 +28,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="[![TCPDump](https://img.shields.io/badge/-TCPDump-blue?&style=for-the-badge&logo=wireshark&logoColor=white)](https://www.tcpdump.org/)/>
+    <img src="https://img.shields.io/badge/-TCPDump-blue?&style=for-the-badge&logo=wireshark&logoColor=white" />
         
 </div>
 
 ## Certifications
 
 <div>
-<img src="![Cisco CCNA](https://img.shields.io/badge/-Cisco%20CCNA-003366?&style=for-the-badge&logo=Cisco&logoColor=white)"/>
+<img src="https://img.shields.io/badge/-CCNA-FF0000?&style=for-the-badge&logo=Cisco&logoColor=white" />
 
 </div>
 
