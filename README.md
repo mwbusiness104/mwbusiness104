@@ -1,12 +1,12 @@
-# Hello, my name is Maverick
-<a href="https://www.linkedin.com/in/maverickwalker"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# About Me 
 
 I am a junior at The Ohio State University's Max M. Fisher College of Business, where I am dedicated to personal and academic growth through continuous learning.
 
-
-## Objective
-
 My primary focus is on pursuing a Bachelor of Science Degree in Information Systems. I am deeply passionate about the tech industry, specifically Cybersecurity, and aspire to acquire extensive knowledge and experience to fuel my future career aspirations. I am open to any opportunity that aligns with my passion and allows me to achieve my goals in the industry. I am excited to explore the possibilities that the future holds.
+
+## Socials 
+
+<a href="https://www.linkedin.com/in/maverickwalker"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 ## Skills
