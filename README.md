@@ -1,11 +1,14 @@
 # Hi, My Name is Maverick 
-### Connect With Me 
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/mwbusiness104)](https://github.com/mwbusiness104) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/mwbusiness104)](https://github.com/mwbusiness104)
 
 
-I am a junior at The Ohio State University's Max M. Fisher College of Business, where I am dedicated to personal and academic growth through continuous learning. My primary focus is on pursuing a Bachelor of Science Degree in Information Systems. I am deeply passionate about the tech industry, specifically Cybersecurity, and aspire to acquire extensive knowledge and experience to fuel my future career aspirations. I am open to any opportunity that aligns with my passion and allows me to achieve my goals in the industry. I am excited to explore the possibilities that the future holds.
+- Currently a third-year student at The Ohio State University's Max M. Fisher College of Business, committed to ongoing personal and academic development.
+- Dedicated to attaining a Bachelor of Science Degree in Information Systems, emphasizing continuous learning and skill enhancement.
+- Intrigued by the technology sector, particularly Cybersecurity, and eager to gain comprehensive expertise and practical skills for future career endeavors.
+- Seeking opportunities that resonate with my passion and enable me to advance within the industry.
+- Enthusiastic about embracing the myriad opportunities that lie ahead on my journey.
 
 
 ## Projects
@@ -33,11 +36,14 @@ I am a junior at The Ohio State University's Max M. Fisher College of Business, 
     
 </div>
 
-
 ## Tools
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TCPDump-blue?&style=for-the-badge&logo=wireshark&logoColor=white" />
+        
+</div>
 
-
-## Network
+## Programming Languages 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-TCPDump-blue?&style=for-the-badge&logo=wireshark&logoColor=white" />
