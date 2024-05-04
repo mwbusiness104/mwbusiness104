@@ -11,7 +11,6 @@
 - Seeking opportunities that resonate with my passion and enable me to advance within the industry.
 - Enthusiastic about embracing the myriad opportunities that lie ahead on my journey.
 
-
 ## Projects
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Active Directory Home Lab</a>
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Active Directory Home Lab</a>
@@ -38,8 +37,10 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
-[![Maverick's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwbusiness104)](https://github.com/mwbusiness104/github-readme-stats)
-
 
 <!--
+
+## Stats 
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=mwbusiness104"/>
+
 
