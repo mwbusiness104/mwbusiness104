@@ -24,6 +24,10 @@ I am a junior at The Ohio State University's Max M. Fisher College of Business, 
 
 <div>
 <img src="https://img.shields.io/badge/-CCNA-FF0000?&style=for-the-badge&logo=Cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCSK-005F9E?&style=for-the-badge&logo=cloudsecurityalliance&logoColor=white"/>
+
+
+
 
 </div>
 
