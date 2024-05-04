@@ -17,10 +17,10 @@ Currently a third-year student at The Ohio State University's Max M. Fisher Coll
    
    
 
-# Skills / Achievements
+# 👨🏽‍💻 Skills / Achievements
 
 
-### 🖥️ Projects
+### 🗃️ Projects
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Active Directory Home Lab</a>
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Active Directory Home Lab</a>
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Active Directory Home Lab</a>
@@ -34,7 +34,7 @@ Currently a third-year student at The Ohio State University's Max M. Fisher Coll
     
 </div>
 
-### Certifications
+### ✅ Certifications
 
 <div>
     <img src="https://img.shields.io/badge/-CCNA-FF0000?&style=for-the-badge&logo=Cisco&logoColor=white" />
