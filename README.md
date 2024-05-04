@@ -1,12 +1,12 @@
-# Hello, I'm CHANGEME
+# Hello, my name is Maverick
 <a href="https://www.linkedin.com/in/maverickwalker"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a junior at The Ohio State University's Max M. Fisher College of Business, where I am dedicated to personal and academic growth through continuous learning.
 
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My primary focus is on pursuing a Bachelor of Science Degree in Information Systems. I am deeply passionate about the tech industry, specifically Cybersecurity, and aspire to acquire extensive knowledge and experience to fuel my future career aspirations. I am open to any opportunity that aligns with my passion and allows me to achieve my goals in the industry. I am excited to explore the possibilities that the future holds.
 
 
 ## Skills
