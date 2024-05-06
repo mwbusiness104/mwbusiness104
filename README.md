@@ -23,7 +23,7 @@ Currently a third-year student at The Ohio State University's Max M. Fisher Coll
 ### 🗃️ Projects
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Active Directory Lab</a>
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Malware Analysis Lab </a>
-- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Active Directory Home Lab</a>
+- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Vulnerability Management Lab</a>
     
 </div>
 
@@ -34,16 +34,19 @@ Currently a third-year student at The Ohio State University's Max M. Fisher Coll
     
 </div>
 
+
+### Programming Languages 
+
+<code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
+
+
 ### ✅ Certifications
 
 <div>
     <img src="https://img.shields.io/badge/-CCNA-FF0000?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-CCSK-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
 
-
-### Programming Languages 
-
-<code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
+</div> 
 
 
 <!--
