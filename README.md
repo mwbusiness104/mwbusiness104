@@ -19,35 +19,32 @@ Currently a third-year student at The Ohio State University's Max M. Fisher Coll
 
 # 👨🏽‍💻 Skills / Achievements
 
+<!-- USE MYDFIR PROJECTS, TAKE SCREENSHOTS, and CREATE DIAGRAMS USING DRAW.IO -->
 
 ### 💼 Projects
-- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Active Directory Lab</a>
+- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Active Directory Lab </a>
+- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Vulnerability Management Lab </a>
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Malware Analysis Lab </a>
 - <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Network Analysis Lab </a>
-- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Vulnerability Management Lab</a>
-- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Brute Force Lab</a>
-    
+- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> SOC Automation Lab </a>
+- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Brute Force Lab </a>
+- <a href="https://github.com/mwbusiness104/Active-Directory-Home-Lab-/blob/main/README.md"> Security Onion Implementation </a>
 </div>
 
 ### ⚙️ Tools
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-
-    
 </div>
 
 
 ### ⌨️ Programming Languages 
-
 <code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
 
 
 ### ✅ Certifications
-
 <div>
     <img src="https://img.shields.io/badge/-CCNA-FF0000?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-CCSK-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
-
 </div> 
 
 
