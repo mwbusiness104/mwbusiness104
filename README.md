@@ -1,4 +1,4 @@
-# Maverick Walker
+# MAVERICK WALKER
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/mwbusiness104)](https://github.com/mwbusiness104) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/mwbusiness104)](https://github.com/mwbusiness104)
@@ -17,7 +17,7 @@ Currently a third-year student at The Ohio State University's Max M. Fisher Coll
    
    
 
-# 👨🏽‍💻 Skills / Achievements
+# 👨🏽‍💻 SKILLS / ACHIEVEMENTS 
 
 <!-- USE MYDFIR PROJECTS, TAKE SCREENSHOTS, and CREATE DIAGRAMS USING DRAW.IO -->
 
