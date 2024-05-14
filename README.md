@@ -7,7 +7,7 @@
 
 
 ### My Background 
-I'm a third-year student at The Ohio State University's Max M. Fisher College of Business, pursuing a B.S. degree in Business Information Systems. My interests lie at the intersection of business and technology, with a particular focus in Cybersecurity. I'm driven by a strong desire to build a solid foundation of knowledge and skills to support my career ambitions. I'm eager to expand my network and enthusiastic about discovering the opportunities that lie ahead.
+I am a third-year student enrolled in The Ohio State University's Max M. Fisher College of Business, working towards a Bachelor of Science degree in Business Information Systems. My passion resides in the fusion of business and technology, with a specific emphasis on Cybersecurity. Motivated by a fervent aspiration to cultivate a robust expertise and skill set to propel my career aspirations, I am eager to broaden my professional connections and excitedly explore the prospects that await me.
 
 ### Fun Facts 
 - gg
