@@ -45,7 +45,7 @@ I am a third-year student enrolled in The Ohio State University's Max M. Fisher 
 
 ### ✅ Certifications 
 <div>
-    <img src="https://img.shields.io/badge/-CCNA-FF0000?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CCNA-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-SECURITY+-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
 </div> 
 
