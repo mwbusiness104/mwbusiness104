@@ -47,7 +47,7 @@ I am a third-year student enrolled in The Ohio State University's Max M. Fisher 
 <div>
     <img src="https://img.shields.io/badge/-SECURITY+-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CCNA-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Microsoft Certified: Azure Security Enginner Associate-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MC: Azure Security Enginner Associate-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
 </div> 
 
 
