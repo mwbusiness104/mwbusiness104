@@ -34,7 +34,7 @@ I am a third-year student enrolled in The Ohio State University's Max M. Fisher 
 
 ### ⚙️ Tools
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SECURITY+-0052CC?&style=for-the-badge&logo=cloud&logoColor=white"/>
 </div>
 
 
