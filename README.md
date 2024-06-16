@@ -17,7 +17,7 @@ I am a third-year student enrolled in The Ohio State University's Max M. Fisher 
    
    
 
-# 👨🏽‍💻 PROJECTS / SKILLS / ACHIEVEMENTS 
+# 👨🏽‍💻 SKILLS / ACHIEVEMENTS 
 
 <!-- USE MYDFIR PROJECTS, TAKE SCREENSHOTS, and CREATE DIAGRAMS USING DRAW.IO -->
 
